@@ -1,0 +1,16 @@
+# Diff Details
+
+Date : 2023-12-28 16:45:18
+
+Directory c:\\Users\\medle\\Documents\\Shopping-master
+
+Total : 1 files,  0 codes, -2 comments, 0 blanks, all -2 lines
+
+[Summary](results.md) / [Details](details.md) / [Diff Summary](diff.md) / Diff Details
+
+## Files
+| filename | language | code | comment | blank | total |
+| :--- | :--- | ---: | ---: | ---: | ---: |
+| [src/App.jsx](/src/App.jsx) | JavaScript React | 0 | -2 | 0 | -2 |
+
+[Summary](results.md) / [Details](details.md) / [Diff Summary](diff.md) / Diff Details

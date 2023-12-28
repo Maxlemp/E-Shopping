@@ -1,0 +1,30 @@
+"filename", "language", "Markdown", "HTML", "CSS", "JSON", "JavaScript", "XML", "JavaScript React", "comment", "blank", "total"
+"c:\Users\medle\Documents\Shopping-master\README.md", "Markdown", 12, 0, 0, 0, 0, 0, 0, 0, 7, 19
+"c:\Users\medle\Documents\Shopping-master\index.html", "HTML", 0, 13, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\Users\medle\Documents\Shopping-master\package-lock.json", "JSON", 0, 0, 0, 2895, 0, 0, 0, 0, 1, 2896
+"c:\Users\medle\Documents\Shopping-master\package.json", "JSON", 0, 0, 0, 22, 0, 0, 0, 0, 1, 23
+"c:\Users\medle\Documents\Shopping-master\public\vite.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\medle\Documents\Shopping-master\src\App.css", "CSS", 0, 0, 56, 0, 0, 0, 0, 1, 2, 59
+"c:\Users\medle\Documents\Shopping-master\src\App.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 66, 3, 7, 76
+"c:\Users\medle\Documents\Shopping-master\src\assets\react.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\medle\Documents\Shopping-master\src\components\addproducts\AddProducts.css", "CSS", 0, 0, 151, 0, 0, 0, 0, 4, 3, 158
+"c:\Users\medle\Documents\Shopping-master\src\components\addproducts\AddProducts.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 99, 3, 3, 105
+"c:\Users\medle\Documents\Shopping-master\src\components\addproducts\CardList.css", "CSS", 0, 0, 66, 0, 0, 0, 0, 0, 2, 68
+"c:\Users\medle\Documents\Shopping-master\src\components\addproducts\CardList.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 67, 1, 4, 72
+"c:\Users\medle\Documents\Shopping-master\src\components\addremoveBtn\AddRemoveBtn.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 20, 0, 1, 21
+"c:\Users\medle\Documents\Shopping-master\src\components\button\Button.css", "CSS", 0, 0, 18, 0, 0, 0, 0, 0, 1, 19
+"c:\Users\medle\Documents\Shopping-master\src\components\button\Button.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 10, 0, 2, 12
+"c:\Users\medle\Documents\Shopping-master\src\components\cards\Card.css", "CSS", 0, 0, 58, 0, 0, 0, 0, 1, 1, 60
+"c:\Users\medle\Documents\Shopping-master\src\components\cards\Card.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 33, 2, 3, 38
+"c:\Users\medle\Documents\Shopping-master\src\components\cards\CardBody.css", "CSS", 0, 0, 21, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\medle\Documents\Shopping-master\src\components\cards\CardBody.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 20, 0, 2, 22
+"c:\Users\medle\Documents\Shopping-master\src\components\header\Header.css", "CSS", 0, 0, 17, 0, 0, 0, 0, 0, 2, 19
+"c:\Users\medle\Documents\Shopping-master\src\components\header\Header.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 12, 0, 2, 14
+"c:\Users\medle\Documents\Shopping-master\src\components\list\List.css", "CSS", 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\medle\Documents\Shopping-master\src\components\list\List.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 12, 0, 1, 13
+"c:\Users\medle\Documents\Shopping-master\src\components\search\Search.css", "CSS", 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\medle\Documents\Shopping-master\src\components\search\Search.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 16, 0, 2, 18
+"c:\Users\medle\Documents\Shopping-master\src\index.css", "CSS", 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\medle\Documents\Shopping-master\src\main.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 9, 0, 2, 11
+"c:\Users\medle\Documents\Shopping-master\vite.config.js", "JavaScript", 0, 0, 0, 0, 5, 0, 0, 1, 2, 8
+"Total", "-", 12, 13, 409, 2917, 5, 2, 364, 16, 56, 3794

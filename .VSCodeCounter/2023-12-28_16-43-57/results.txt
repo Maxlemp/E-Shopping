@@ -1,0 +1,71 @@
+Date : 2023-12-28 16:43:57
+Directory : c:\Users\medle\Documents\Shopping-master
+Total : 28 files,  3722 codes, 16 comments, 56 blanks, all 3794 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |          2 |      2,917 |          0 |          2 |      2,919 |
+| CSS              |         10 |        409 |          6 |         15 |        430 |
+| JavaScript React |         11 |        364 |          9 |         29 |        402 |
+| HTML             |          1 |         13 |          0 |          1 |         14 |
+| Markdown         |          1 |         12 |          0 |          7 |         19 |
+| JavaScript       |          1 |          5 |          1 |          2 |          8 |
+| XML              |          2 |          2 |          0 |          0 |          2 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                  | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                     |         28 |      3,722 |         16 |         56 |      3,794 |
+| . (Files)                                                                             |          5 |      2,947 |          1 |         12 |      2,960 |
+| public                                                                                |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                   |         22 |        774 |         15 |         44 |        833 |
+| src (Files)                                                                           |          4 |        135 |          4 |         12 |        151 |
+| src\assets                                                                            |          1 |          1 |          0 |          0 |          1 |
+| src\components                                                                        |         17 |        638 |         11 |         32 |        681 |
+| src\components\addproducts                                                            |          4 |        383 |          8 |         12 |        403 |
+| src\components\addremoveBtn                                                           |          1 |         20 |          0 |          1 |         21 |
+| src\components\button                                                                 |          2 |         28 |          0 |          3 |         31 |
+| src\components\cards                                                                  |          4 |        132 |          3 |          7 |        142 |
+| src\components\header                                                                 |          2 |         29 |          0 |          4 |         33 |
+| src\components\list                                                                   |          2 |         21 |          0 |          2 |         23 |
+| src\components\search                                                                 |          2 |         25 |          0 |          3 |         28 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                              | language         | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\medle\Documents\Shopping-master\README.md                                    | Markdown         |         12 |          0 |          7 |         19 |
+| c:\Users\medle\Documents\Shopping-master\index.html                                   | HTML             |         13 |          0 |          1 |         14 |
+| c:\Users\medle\Documents\Shopping-master\package-lock.json                            | JSON             |      2,895 |          0 |          1 |      2,896 |
+| c:\Users\medle\Documents\Shopping-master\package.json                                 | JSON             |         22 |          0 |          1 |         23 |
+| c:\Users\medle\Documents\Shopping-master\public\vite.svg                              | XML              |          1 |          0 |          0 |          1 |
+| c:\Users\medle\Documents\Shopping-master\src\App.css                                  | CSS              |         56 |          1 |          2 |         59 |
+| c:\Users\medle\Documents\Shopping-master\src\App.jsx                                  | JavaScript React |         66 |          3 |          7 |         76 |
+| c:\Users\medle\Documents\Shopping-master\src\assets\react.svg                         | XML              |          1 |          0 |          0 |          1 |
+| c:\Users\medle\Documents\Shopping-master\src\components\addproducts\AddProducts.css   | CSS              |        151 |          4 |          3 |        158 |
+| c:\Users\medle\Documents\Shopping-master\src\components\addproducts\AddProducts.jsx   | JavaScript React |         99 |          3 |          3 |        105 |
+| c:\Users\medle\Documents\Shopping-master\src\components\addproducts\CardList.css      | CSS              |         66 |          0 |          2 |         68 |
+| c:\Users\medle\Documents\Shopping-master\src\components\addproducts\CardList.jsx      | JavaScript React |         67 |          1 |          4 |         72 |
+| c:\Users\medle\Documents\Shopping-master\src\components\addremoveBtn\AddRemoveBtn.jsx | JavaScript React |         20 |          0 |          1 |         21 |
+| c:\Users\medle\Documents\Shopping-master\src\components\button\Button.css             | CSS              |         18 |          0 |          1 |         19 |
+| c:\Users\medle\Documents\Shopping-master\src\components\button\Button.jsx             | JavaScript React |         10 |          0 |          2 |         12 |
+| c:\Users\medle\Documents\Shopping-master\src\components\cards\Card.css                | CSS              |         58 |          1 |          1 |         60 |
+| c:\Users\medle\Documents\Shopping-master\src\components\cards\Card.jsx                | JavaScript React |         33 |          2 |          3 |         38 |
+| c:\Users\medle\Documents\Shopping-master\src\components\cards\CardBody.css            | CSS              |         21 |          0 |          1 |         22 |
+| c:\Users\medle\Documents\Shopping-master\src\components\cards\CardBody.jsx            | JavaScript React |         20 |          0 |          2 |         22 |
+| c:\Users\medle\Documents\Shopping-master\src\components\header\Header.css             | CSS              |         17 |          0 |          2 |         19 |
+| c:\Users\medle\Documents\Shopping-master\src\components\header\Header.jsx             | JavaScript React |         12 |          0 |          2 |         14 |
+| c:\Users\medle\Documents\Shopping-master\src\components\list\List.css                 | CSS              |          9 |          0 |          1 |         10 |
+| c:\Users\medle\Documents\Shopping-master\src\components\list\List.jsx                 | JavaScript React |         12 |          0 |          1 |         13 |
+| c:\Users\medle\Documents\Shopping-master\src\components\search\Search.css             | CSS              |          9 |          0 |          1 |         10 |
+| c:\Users\medle\Documents\Shopping-master\src\components\search\Search.jsx             | JavaScript React |         16 |          0 |          2 |         18 |
+| c:\Users\medle\Documents\Shopping-master\src\index.css                                | CSS              |          4 |          0 |          1 |          5 |
+| c:\Users\medle\Documents\Shopping-master\src\main.jsx                                 | JavaScript React |          9 |          0 |          2 |         11 |
+| c:\Users\medle\Documents\Shopping-master\vite.config.js                               | JavaScript       |          5 |          1 |          2 |          8 |
+| Total                                                                                 |                  |      3,722 |         16 |         56 |      3,794 |
++---------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
